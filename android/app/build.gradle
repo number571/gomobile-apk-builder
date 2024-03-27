@@ -1,0 +1,36 @@
+/*
+ * Copyright 2015 The Go Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style
+ * license that can be found in the LICENSE file.
+ */
+apply plugin: 'com.android.application'
+
+repositories {
+    flatDir {
+        dirs '.'
+    }
+}
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "org.golang.example.android"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    namespace 'org.golang.example.bind'
+}
+
+dependencies {
+    implementation files('../libs/hello.aar')
+
+}

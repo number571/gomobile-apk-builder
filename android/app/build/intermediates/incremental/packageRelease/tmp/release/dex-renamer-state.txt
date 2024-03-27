@@ -1,0 +1,4 @@
+#Wed Mar 27 10:34:53 PDT 2024
+base.0=/project/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

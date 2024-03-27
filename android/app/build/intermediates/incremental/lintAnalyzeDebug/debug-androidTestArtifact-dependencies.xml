@@ -1,0 +1,11 @@
+<dependencies>
+  <compile
+      roots="__local_aars__:/project/android/libs/hello.aar:unspecified@jar,/project/android@@:app::debug">
+    <dependency
+        name="__local_aars__:/project/android/libs/hello.aar:unspecified@jar"
+        simpleName="__local_aars__:/project/android/libs/hello.aar"/>
+    <dependency
+        name="/project/android@@:app::debug"
+        simpleName=":"/>
+  </compile>
+</dependencies>

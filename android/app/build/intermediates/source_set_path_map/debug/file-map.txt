@@ -1,0 +1,7 @@
+org.golang.example.bind.app-pngs-0 /project/android/app/build/generated/res/pngs/debug
+org.golang.example.bind.app-resValues-1 /project/android/app/build/generated/res/resValues/debug
+org.golang.example.bind.app-packageDebugResources-2 /project/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.golang.example.bind.app-packageDebugResources-3 /project/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.golang.example.bind.app-merged_res-4 /project/android/app/build/intermediates/merged_res/debug
+org.golang.example.bind.app-debug-5 /project/android/app/src/debug/res
+org.golang.example.bind.app-main-6 /project/android/app/src/main/res

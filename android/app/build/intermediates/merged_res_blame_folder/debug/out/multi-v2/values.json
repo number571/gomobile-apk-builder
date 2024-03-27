@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.golang.example.bind.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/project/android/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "258,316",
+                        "endColumns": "57,55",
+                        "endOffsets": "311,367"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

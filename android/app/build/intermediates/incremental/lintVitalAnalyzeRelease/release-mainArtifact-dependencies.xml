@@ -1,0 +1,14 @@
+<dependencies>
+  <compile
+      roots="__local_aars__:/project/android/libs/hello.aar:unspecified@jar">
+    <dependency
+        name="__local_aars__:/project/android/libs/hello.aar:unspecified@jar"
+        simpleName="__local_aars__:/project/android/libs/hello.aar"/>
+  </compile>
+  <package
+      roots="__local_aars__:/project/android/libs/hello.aar:unspecified@jar">
+    <dependency
+        name="__local_aars__:/project/android/libs/hello.aar:unspecified@jar"
+        simpleName="__local_aars__:/project/android/libs/hello.aar"/>
+  </package>
+</dependencies>
