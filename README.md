@@ -1,6 +1,6 @@
 # gomobile-apk-builder
 
-Simple gomobile apk builder with docker images.
+Simple example of gomobile apk builder with docker images.
 
 ## Build
 
