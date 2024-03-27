@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<incidents format="6" by="lint 8.0.0" type="partial_results">
-    <map id="UnusedResources">
-        <entry
-            name="model"
-            string="dimen[activity_vertical_margin(U),activity_horizontal_margin(U)],id[mytextview(U)],layout[activity_main(U)];3^0^1;;;"/>
-    </map>
-
-</incidents>

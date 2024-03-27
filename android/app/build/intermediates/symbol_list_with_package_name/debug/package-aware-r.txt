@@ -1,5 +1,0 @@
-org.golang.example.bind
-dimen activity_horizontal_margin
-dimen activity_vertical_margin
-id mytextview
-layout activity_main
