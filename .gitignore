@@ -1,4 +1,5 @@
 android/.gradle
 android/.idea
+android/app/build
 android/libs/hello.aar
 hello/hello-sources.jar
